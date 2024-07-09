@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NewNotepad",
+            "request": "launch",
+            "mainClass": "com.learning.notepad.NewNotepad",
+            "projectName": "myFirstProject_7e8c6036"
+        },
+        {
+            "type": "java",
+            "name": "Notepad",
+            "request": "launch",
+            "mainClass": "com.learning.notepad.Notepad",
+            "projectName": "myFirstProject_7e8c6036"
+        },
+        {
+            "type": "java",
+            "name": "About",
+            "request": "launch",
+            "mainClass": "About",
+            "projectName": "myFirstProject_7e8c6036"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Notepad",
+            "request": "launch",
+            "mainClass": "Notepad",
+            "projectName": "myFirstProject_7e8c6036"
+        }
+    ]
+}
